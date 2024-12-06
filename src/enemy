@@ -1,0 +1,562 @@
+{
+    "enemyField": {
+        "field": [
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 1
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 0,
+                    "shipIndex": 0,
+                    "state": 2
+                },
+                {
+                    "index": 1,
+                    "shipIndex": 0,
+                    "state": 2
+                },
+                {
+                    "index": 2,
+                    "shipIndex": 0,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 0,
+                    "shipIndex": 2,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 0,
+                    "shipIndex": 1,
+                    "state": 2
+                },
+                {
+                    "index": 1,
+                    "shipIndex": 1,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ]
+        ],
+        "height": 10,
+        "width": 10
+    },
+    "enemyShipManager": {
+        "ships": [
+            {
+                "horizontal": true,
+                "isDestroyed": false,
+                "length": 3,
+                "segmentsArray": [
+                    2,
+                    0,
+                    0
+                ],
+                "shipIndex": 0
+            },
+            {
+                "horizontal": true,
+                "isDestroyed": false,
+                "length": 2,
+                "segmentsArray": [
+                    0,
+                    0
+                ],
+                "shipIndex": 1
+            },
+            {
+                "horizontal": true,
+                "isDestroyed": false,
+                "length": 1,
+                "segmentsArray": [
+                    0
+                ],
+                "shipIndex": 2
+            }
+        ]
+    }
+}

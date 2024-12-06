@@ -1,0 +1,583 @@
+{
+    "PlayerField": {
+        "field": [
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 0,
+                    "shipIndex": 0,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 1,
+                    "shipIndex": 0,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 2,
+                    "shipIndex": 0,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 0,
+                    "shipIndex": 1,
+                    "state": 2
+                },
+                {
+                    "index": 1,
+                    "shipIndex": 1,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": 0,
+                    "shipIndex": 2,
+                    "state": 2
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ],
+            [
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                },
+                {
+                    "index": -1,
+                    "shipIndex": -1,
+                    "state": 0
+                }
+            ]
+        ],
+        "height": 10,
+        "width": 10
+    },
+    "PlayerShipManager": {
+        "ships": [
+            {
+                "horizontal": false,
+                "isDestroyed": false,
+                "length": 3,
+                "segmentsArray": [
+                    0,
+                    0,
+                    0
+                ],
+                "shipIndex": 0
+            },
+            {
+                "horizontal": true,
+                "isDestroyed": false,
+                "length": 2,
+                "segmentsArray": [
+                    0,
+                    0
+                ],
+                "shipIndex": 1
+            },
+            {
+                "horizontal": false,
+                "isDestroyed": false,
+                "length": 1,
+                "segmentsArray": [
+                    0
+                ],
+                "shipIndex": 2
+            }
+        ]
+    },
+    "abilityManager": {
+        "abilities": [
+            {
+                "ability": "random fire"
+            },
+            {
+                "ability": "scanner"
+            },
+            {
+                "ability": "double damage"
+            }
+        ]
+    },
+    "abilityResponse": {
+        "isDoubleDamageActivated": false,
+        "lastUsedAbility": 0,
+        "scannerResult": false
+    },
+    "needNewField": false,
+    "numberOfWins": 0,
+    "round": 1
+}
