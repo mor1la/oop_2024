@@ -9,13 +9,16 @@ GameStateEnemy &GameManager::getGameStateEnemy(){
 }
 
 void GameManager::save(std::string name1, std::string name2){
-    gameStatePlayer.save(name1);
-    gameStateEnemy.save(name2);
+    if (isGameStatus(GameStatus::PAUSE)){
+        gameStatePlayer.save(name1);
+        gameStateEnemy.save(name2);
+    }
 }
 
 void GameManager::load(std::string name1, std::string name2){
     gameStatePlayer.load(name1);
     gameStateEnemy.load(name2);
+    setGameStatus(GameStatus::GAME);
 }
 
 GameStatus GameManager::getStatus(){

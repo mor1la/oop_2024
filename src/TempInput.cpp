@@ -6,6 +6,7 @@ void handleInput(GameManager& gameManager) {
     while (true) {
 
         if (gameManager.isGameStatus(GameStatus::MENU)) {
+            clearConsole();
             std::cout << "=== Main Menu ===" << std::endl;
             std::cout << "[N] New Game" << std::endl;
             std::cout << "[L] Load Game" << std::endl;
@@ -15,8 +16,13 @@ void handleInput(GameManager& gameManager) {
             std::cout << "[A] Attack" << std::endl;
             std::cout << "[P] Pause" << std::endl;
             std::cout << "[U] Use Ability" << std::endl;
+        } else if (gameManager.isGameStatus(GameStatus::PAUSE)) {
+            std::cout << "=== In Pause ===" << std::endl;
+            std::cout << "[P] UnPause" << std::endl;
+            std::cout << "[S] Save" << std::endl;
             std::cout << "[M] Quit to Main Menu" << std::endl;
         }
+
         char input = _getch();
 
         switch (input) {
@@ -49,6 +55,10 @@ void handleInput(GameManager& gameManager) {
             std::string loadEnemy = "enemy";
             gameManager.load(loadPlayer, loadEnemy);
             std::cout << "Game loaded from " << loadPlayer << " and " << loadEnemy << "." << std::endl;
+            std::cout << "Player Field" << std::endl;
+            gameManager.getGameStatePlayer().getGameField().drawField(true);
+            std::cout << "Enemy Field" << std::endl;
+            gameManager.getGameStateEnemy().getGameField().drawField(true);
             break;
         }
         case 'P':
@@ -73,6 +83,10 @@ void handleInput(GameManager& gameManager) {
             break;
         case 'A':
         case 'a': {
+            std::cout << "Player Field" << std::endl;
+            gameManager.getGameStatePlayer().getGameField().drawField(true);
+            std::cout << "Enemy Field" << std::endl;
+            gameManager.getGameStateEnemy().getGameField().drawField(true);
             bool success = false;
             do {
                 int x, y;
@@ -83,9 +97,10 @@ void handleInput(GameManager& gameManager) {
                 if (!success) {
                     std::cout << "Invalid coordinates or attack not possible. Try again." << std::endl;
                 }else{
-                    gameManager.attack(x, y);
+                    gameManager.move(x, y);
                 }
             } while (!success);
+            clearConsole();
             std::cout << "Player Field" << std::endl;
             gameManager.getGameStatePlayer().getGameField().drawField(true);
             std::cout << "Enemy Field" << std::endl;

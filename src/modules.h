@@ -3,7 +3,7 @@
 
 #define WIDTH 10
 #define HEIGHT 10
-#define LENGTHS {3, 2, 1}
+#define LENGTHS {1}
 
 
 #include <iostream>
@@ -26,4 +26,4 @@ int getRandomNum(int min, int max);
 
 void clearConsole();
 
-#endif
+#endif  
